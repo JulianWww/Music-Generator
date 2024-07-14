@@ -1,0 +1,6 @@
+tensorflow>=2.17.0
+pydub>=0.25.1
+spotify_dl>=8.9.0
+numpy>=1.26.4
+tqdm>=4.66.4
+scipy>=1.14.0
